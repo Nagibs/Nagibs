@@ -276,7 +276,7 @@ This aligns naturally with my superior analytical and planning skills. Data anal
 
 - ***Tools & Libraries:*** Apache Spark, Spark SQL, Spark, Delta Lake.
 - ***Techniques:*** Distributed computing, Caching data, Dataframe partitions, Adaptive Query Execution, Data pipelines, Data warehouses, Lakehouses.</details>
-## Badges of Honor 🌟⭐
+## Badges of Honor 🌟🏆
 <!--START_SECTION:badges-->
 [![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](http://www.credly.com/badges/61e295e8-9853-46ba-8cb6-2f0e55e782ba "Data Science Professional Certificate")
 [![Machine Learning with Python](https://images.credly.com/size/110x110/images/5ae9bf9e-da6e-4cec-82eb-d2b4cfea9751/Machine_Learning_with_Python.png)](http://www.credly.com/badges/25017f2a-2909-45d7-82d5-f9dc23b7c13f "Machine Learning with Python")
