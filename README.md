@@ -51,8 +51,8 @@ This aligns naturally with my superior analytical and planning skills. Data anal
 - ***Tools:*** Python, SQL, Jupyter / JupyterLab, GitHub, and Watson Studio
 - ***Libraries:*** Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.
 - ***Projects:***
-- [Applied Data Science Capstone (Project)](https://github.com/Nagibs/IBM-Applied-Data-Science-Capstone)
-- Random album generator, predict housing prices, best classifier model, Predicting successful rocket landing, dashboard and interactive map.
+	- [Applied Data Science Capstone Project](https://github.com/Nagibs/IBM-Applied-Data-Science-Capstone)
+	- Random album generator, predict housing prices, best classifier model, Predicting successful rocket landing, dashboard and interactive map.
 - ***Techniques:*** Web scraping, data collection, data visualization, data analysis, statistical analysis, and machine learning</details>
 
 <details><summary><b><a href="https://egfwd.com/specializtion/machine-learning/" target="_blank">Machine Learning Cross-Skilling Nanodegree</a> - by Udacity <a href="https://confirm.udacity.com/LMDTDGSV" target="_blank">[Certificate]</a></b></summary>
@@ -210,7 +210,38 @@ This aligns naturally with my superior analytical and planning skills. Data anal
     - ***Tools & Libraries:*** Python, SQL, IBM DB2. 
     - ***Projects:*** 
         - Chicago City Datasets Analysis with SQL</details>
+		
+<details open><summary><b><a href="https://www.coursera.org/learn/introduction-mongodb" target="_blank">Introduction to MongoDB</a> - by MongoDB <a href="https://coursera.org/verify/NQUJMQR96DN5" target="_blank">[Certificate]</a></b></summary>
+<br>
 
+- ***Course Summary:***
+    - Start by mastering the fundamentals of MongoDB, including:
+        - MongoDB’s Document data model, importing data into a cluster.
+        - Working with our CRUD API and Aggregation Framework.
+        - Taught through a demo application which will give you a great first encounter of how simple and practical it can be to build applications with MongoDB
+    - learn and work with useful MongoDB tools and services: 
+        - Work with Atlas, MongoDB's database as a service.
+        - MongoDB Compass, a schema visualization tool.
+        - As well as many other useful command-line utilities.
+- ***Tools & Libraries:*** MongoDB, Python, Atlas, MongoDB Compass</details>
+
+
+<details open><summary><b><a href="https://www.coursera.org/learn/unix" target="_blank">The Unix Workbench</a> - by Johns Hopkins University <a href="https://coursera.org/verify/EL6B3XU9RM3P" target="_blank">[Certificate]</a></b></summary>
+<br>
+
+- ***Course Summary:***
+    - Command line interfaces can seem alien at first, so this course attempts to draw parallels between using the command line and actions that you would normally take while using your mouse and keyboard.
+    - Learn how to write little pieces of software in Bash, which allows you to connect together the tools we’ll discuss.
+    - By the end of this course you be able to use different Unix tools as if they’re interconnecting Lego bricks.<br><br>
+- <details open><summary><b><i>Course Content:</i></b></summary>        
+
+    - **Unix and Command Line Basics:** Get access to Unix (you may already be using it), and you'll start using the command line. We'll draw parallels between using your mouse and keyboard with your computer's graphics versus only using the command line.
+    - **Working with Unix:** Get into the power of different Unix tools. We'll walk through several scenarios where you could use Unix to perform tasks at a much faster speed than you would be able to normally.
+    - **Bash Programming:** Unleash the command line's usefulness as a programming language. By the end of this week you'll be writing your own little computer programs that you can use on the command line.
+    - **Git and GitHub:** Learn how to use Git, which is like "track changes" for your code and plain text files, but much more powerful. We'll then explore how to use Git with GitHub, a social coding network where you can publish you projects and explore other's code.
+    - **Nephology:** Set up a cloud computing environment so we can explore how computers communicate with each other using the internet.
+- ***Tools & Libraries:*** VM VirtualBox, Unix, Bash
+- ***Techniques:*** Shell scripting, Github, Bash, Cloud Computing.</details>
 
 ## Badge Decorations
 <!--START_SECTION:badges-->
