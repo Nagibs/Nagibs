@@ -9,7 +9,7 @@
 </p>
 <hr>
 
-## Who is Ahmed Nagib? 📜 🎓 ✔️
+## Know More About Me? 👨‍💻 😄
 Originally an Engineering team leader and a Project Manager with 13+ years of professional experience in the telecommunication industry who is pivoting into Data Science.
 
 This aligns naturally with my superior analytical and planning skills. Data analytics, delivering actionable insights, taking data driven decisions, creating and presenting dashboards for all levels of stakeholders was somehow a day-to-day work, beside planning and managing multi-million-dollars projects.
@@ -211,7 +211,7 @@ This aligns naturally with my superior analytical and planning skills. Data anal
     - ***Projects:*** 
         - Chicago City Datasets Analysis with SQL</details>
 		
-<details open><summary><b><a href="https://www.coursera.org/learn/introduction-mongodb" target="_blank">Introduction to MongoDB</a> - by MongoDB <a href="https://coursera.org/verify/NQUJMQR96DN5" target="_blank">[Certificate]</a></b></summary>
+<details><summary><b><a href="https://www.coursera.org/learn/introduction-mongodb" target="_blank">Introduction to MongoDB</a> - by MongoDB <a href="https://coursera.org/verify/NQUJMQR96DN5" target="_blank">[Certificate]</a></b></summary>
 <br>
 
 - ***Course Summary:***
@@ -226,14 +226,14 @@ This aligns naturally with my superior analytical and planning skills. Data anal
 - ***Tools & Libraries:*** MongoDB, Python, Atlas, MongoDB Compass</details>
 
 
-<details open><summary><b><a href="https://www.coursera.org/learn/unix" target="_blank">The Unix Workbench</a> - by Johns Hopkins University <a href="https://coursera.org/verify/EL6B3XU9RM3P" target="_blank">[Certificate]</a></b></summary>
+<details><summary><b><a href="https://www.coursera.org/learn/unix" target="_blank">The Unix Workbench</a> - by Johns Hopkins University <a href="https://coursera.org/verify/EL6B3XU9RM3P" target="_blank">[Certificate]</a></b></summary>
 <br>
 
 - ***Course Summary:***
     - Command line interfaces can seem alien at first, so this course attempts to draw parallels between using the command line and actions that you would normally take while using your mouse and keyboard.
     - Learn how to write little pieces of software in Bash, which allows you to connect together the tools we’ll discuss.
     - By the end of this course you be able to use different Unix tools as if they’re interconnecting Lego bricks.<br><br>
-- <details open><summary><b><i>Course Content:</i></b></summary>        
+- <details><summary><b><i>Course Content:</i></b></summary>        
 
     - **Unix and Command Line Basics:** Get access to Unix (you may already be using it), and you'll start using the command line. We'll draw parallels between using your mouse and keyboard with your computer's graphics versus only using the command line.
     - **Working with Unix:** Get into the power of different Unix tools. We'll walk through several scenarios where you could use Unix to perform tasks at a much faster speed than you would be able to normally.
@@ -243,6 +243,39 @@ This aligns naturally with my superior analytical and planning skills. Data anal
 - ***Tools & Libraries:*** VM VirtualBox, Unix, Bash
 - ***Techniques:*** Shell scripting, Github, Bash, Cloud Computing.</details>
 
+<details><summary><b><a href="https://www.coursera.org/account/accomplishments/certificate/QQTQCB4HLCQC" target="_blank">Introduction to Big Data</a> - by University of California San Diego <a href="https://coursera.org/verify/QQTQCB4HLCQC" target="_blank">[Certificate]</a></b></summary>
+<br>
+
+- ***Course Summary:***
+    - An introductonary course to the Big Data landscape.
+    - An introduction to one of the most common frameworks, Hadoop.
+    - Explain the V’s of Big Data (volume, velocity, variety, veracity, valence, and value) and why each impacts data collection, monitoring, storage, analysis and reporting.
+    -  Summarize the features and value of core Hadoop stack components including the YARN resource and job management system, the HDFS file system and the MapReduce programming model.<br><br>
+- <details><summary><b><i>Course Content:</i></b></summary>
+    
+    - **Big Data: Why and Where?:** Data has been around (even digitally) for a while. What makes data "big" and where does this big data come from?
+    - **Characteristics of Big Data and Dimensions of Scalability:** The "Big Vs". Examples and descriptions of the commonly discussed 5 Vs. Propose a 6th V, and practice writing Big Data questions targeting this V -- value.
+    - **Data Science: Getting Value out of Big Data:** The reality is we care about Big Data because it can bring value to our companies, our lives, and the world. In this module we introduce a 5 step process for approaching data science problems.
+    - **Foundations for Big Data Systems and Programming:** Big Data requires new programming frameworks and systems. Give you a grounding in some of the key concepts.</details>
+        
+    - ***Techniques:*** Big Data, Apache Hadoop, Mapreduce, Cloudera, YARN.</details>
+
+<details><summary><b><a href="https://www.coursera.org/learn/spark-sql" target="_blank">Distributed Computing with Spark SQL</a> - by UC Davis <a href="https://w.x.c" target="_blank">[Certificate]</a></b></summary>
+<br>
+
+- ***Course Summary:***
+    - Learn distributed computing using Apache Spark and gain a thorough understanding of this open-source standard for working with large datasets. Learn fundamentals of data analysis using SQL on Spark. Learn the Spark architecture, queries within Spark, common ways to optimize Spark SQL, and how to build reliable data pipelines. 
+    - By the end of this course, students will hone their SQL and distributed computing skills to become more adept at advanced analysis and to set the stage for transitioning to more advanced analytics as Data Scientists.<br><br>
+- <details><summary><b><i>Course Content:</i></b></summary>        
+
+    - **Introduction to Spark:** Learn to discuss the core concepts of distributed computing and be able to recognize when and where to apply them. Identify the basic data structure of Apache Spark, known as a DataFrame. Additionally, Use the collaborative Databricks workspace and write SQL code that executes against a cluster of machines.
+    - **Spark Core Concepts:** Explain the core concepts of Spark. Learn common ways to increase query performance by caching data and modifying Spark configurations. Also use the Spark UI to analyze performance and identify bottlenecks, as well as optimize queries with Adaptive Query Execution.
+    - **Engineering Data Pipelines:** Identify and discuss the general demands of data applications. Access data in a variety of formats and compare and contrast the tradeoffs between these formats. Explore and examine semi-structured JSON data (common in big data environments) as well as schemas and parallel data writes. Create an end-to-end pipeline that reads data, transforms it, and saves the result.
+    - **Data Lakes, Warehouses and Lakehouses:** Identify the key characteristics of data lakes, data warehouses, and lakehouses. Lakehouses combine the scalability and low-cost storage of data lakes with the speed and ACID transactional guarantees of data warehouses. Build a production grade lakehouse by combining Spark with the open-source project, Delta Lake.
+    </details>
+
+- ***Tools & Libraries:*** Apache Spark, Spark SQL, Spark, Delta Lake.
+- ***Techniques:*** Distributed computing, Caching data, Dataframe partitions, Adaptive Query Execution, Data pipelines, Data warehouses, Lakehouses.</details>
 ## Badge Decorations
 <!--START_SECTION:badges-->
 [![Data Science Professional Certificate](https://images.credly.com/size/110x110/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png)](http://www.credly.com/badges/61e295e8-9853-46ba-8cb6-2f0e55e782ba "Data Science Professional Certificate")
