@@ -60,8 +60,8 @@ This aligns naturally with my superior analytical and planning skills. Data anal
 
 - ***Course Summary:***
     - Advanced machine learning techniques and algorithms.
-    - Covering wide varity of supervised and unsupervised machine learning techniques and algorithms.
-    - Part of Egypt Future Work is Digitial **(EgyFWD)** initiative and sponsored by The Egyptian Ministry of Communications and Information technology **(MCIT)**.<br><br>
+    - Covering wide variety of supervised and unsupervised machine learning techniques and algorithms.
+    - Part of Egypt Future Work is Digital **(EgyFWD)** initiative and sponsored by The Egyptian Ministry of Communications and Information technology **(MCIT)**.<br><br>
 - <details><summary><b><i>Course Content:</i></b></summary>        
 
     - **Supervised Learning**:
@@ -104,7 +104,7 @@ This aligns naturally with my superior analytical and planning skills. Data anal
         - Build visualizations using different design elements
         - Use visualizations to explore your data
         - Use visualizations to communicate your insights
-    - Part of Egypt Future Work is Digitial **(EgyFWD)** initiative and sponsored by The Egyptian Ministry of Communications and Information technology **(MCIT)**.<br><br>
+    - Part of Egypt Future Work is Digital **(EgyFWD)** initiative and sponsored by The Egyptian Ministry of Communications and Information technology **(MCIT)**.<br><br>
 - <details><summary><b><i>Course Content:</i></b></summary>
 
     - **SQL for Data Analysis:**
@@ -137,7 +137,7 @@ This aligns naturally with my superior analytical and planning skills. Data anal
         - **Make Dashboards & Stories in Tableau:** In this final lesson you learn how to build interactive Tableau dashboards and tell impactful stories using data.
         - **Flight Delays Dashboard - (Data Visualization Project):** Build interactive dashboards with Tableau and use them to discover and communicate insights from data.</details>
 
-        - ***Tools & Libraries:*** Python, Jupyter, SQL, Scipy, Tableau, Scikit-Learn.
+        - ***Tools & Libraries:*** Python, Jupyter, SQL, SciPy, Tableau, Scikit-Learn.
         - ***Projects:*** 
             - [Analyze A/B Test Results](https://github.com/Nagibs/Analyze-AB-Test-Results)
             - [Flight Delays Dashboard - Data Visualization with Tableau](https://public.tableau.com/views/BuildDataDashboards-FlightDelays/FlightDelaysDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -160,7 +160,7 @@ This aligns naturally with my superior analytical and planning skills. Data anal
         - Gather data from multiple sources in a variety of formats
         - Assess the quality and tidiness of data visually and programmatically
         - Clean data using Python and Pandas
-    - Part of Egypt Future Work is Digitial **(EgyFWD)** initiative and sponsored by The Egyptian Ministry of Communications and Information technology **(MCIT)**.<br><br>
+    - Part of Egypt Future Work is Digital **(EgyFWD)** initiative and sponsored by The Egyptian Ministry of Communications and Information technology **(MCIT)**.<br><br>
 - <details><summary><b><i>Course Content:</i></b></summary>
 
     - **Introduction to Python:**
@@ -206,7 +206,7 @@ This aligns naturally with my superior analytical and planning skills. Data anal
     - **Intermediate SQL:** Learn how to use string patterns and ranges to search data and how to sort and group data in result sets. Also practice composing nested queries and execute select statements to access data from multiple tables.
     - **Accessing Databases using Python:** Learn the basic concepts related to using Python to connect to databases. In a Jupyter Notebook, you will create tables, load data, query data using SQL, and analyze data using Python.
     - **Course Assignment:** Working with multiple real world datasets for the city of Chicago. You will be asked questions that will help you understand the data just as you would in the real wold.
-    - **Bonus Module:Advanced SQL for Data Engineering (Honors):** This module covers some advanced SQL techniques that will be useful for Data Engineers. Learn how to build more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins.</details>
+    - **Bonus Module: Advanced SQL for Data Engineering (Honors):** This module covers some advanced SQL techniques that will be useful for Data Engineers. Learn how to build more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins.</details>
     - ***Tools & Libraries:*** Python, SQL, IBM DB2. 
     - ***Projects:*** 
         - Chicago City Datasets Analysis with SQL</details>
