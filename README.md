@@ -24,13 +24,13 @@ I am a highly skilled Data Management & Analytics professional with over 14+ yea
 	- [ ] [Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer)
 		- [X] [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases?specialization=meta-database-engineer)
   		- [X] [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-database-engineer)
-    		- [X] [Database Structures and Management with MySQL](https://www.coursera.org/learn/database-structures-and-management-with-mysql?specialization=meta-database-engineer)
-    		- [X] [Advanced MySQL Topics](https://www.coursera.org/learn/advanced-mysql-topics?specialization=meta-database-engineer)
-    		- [X] [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-database-engineer)
-    		- [X] [Database Clients](https://www.coursera.org/learn/database-clients?specialization=meta-database-engineer)
-    		- [ ] [Advanced Data Modeling](https://www.coursera.org/learn/advanced-data-modeling?specialization=meta-database-engineer)
-    		- [ ] [Database Engineer Capstone](https://www.coursera.org/learn/database-engineer-capstone?specialization=meta-database-engineer)
-    		- [ ] [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-database-engineer)
+		- [X] [Database Structures and Management with MySQL](https://www.coursera.org/learn/database-structures-and-management-with-mysql?specialization=meta-database-engineer)
+		- [X] [Advanced MySQL Topics](https://www.coursera.org/learn/advanced-mysql-topics?specialization=meta-database-engineer)
+		- [X] [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-database-engineer)
+		- [X] [Database Clients](https://www.coursera.org/learn/database-clients?specialization=meta-database-engineer)
+		- [ ] [Advanced Data Modeling](https://www.coursera.org/learn/advanced-data-modeling?specialization=meta-database-engineer)
+		- [ ] [Database Engineer Capstone](https://www.coursera.org/learn/database-engineer-capstone?specialization=meta-database-engineer)
+		- [ ] [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-database-engineer)
     		
 
 
