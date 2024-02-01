@@ -10,9 +10,7 @@
 <hr>
 
 ## Know More About Me? 👨‍💻 😄
-Originally an Engineering team leader and a Project Manager with 13+ years of professional experience in the telecommunication industry who is pivoting into Data Science.
-
-This aligns naturally with my superior analytical and planning skills. Data analytics, delivering actionable insights, taking data driven decisions, creating and presenting dashboards for all levels of stakeholders was somehow a day-to-day work, beside planning and managing multi-million-dollars projects.
+I am a highly skilled Data Management & Analytics professional with over 14+ years of experience in the telecom and tech industries. With a proven track record in data management, data science, and prescriptive analytics, include successful launch of multiple end-to-end data solutions and automation. Proficient in developing analytical and descriptive models, I collaborate closely with senior management and cross-functional teams to provide actionable business insights, enabling informed decision-making.
 
 - 💡 I'm interested in all things data: **Data Science, Machine Learning, Data Engineering, Big Data and Cloud**  
 - 📫 How to reach me? Through [**Email**](mailto:nagibs@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/ahmednagib/)
@@ -22,9 +20,18 @@ This aligns naturally with my superior analytical and planning skills. Data anal
  	- [ ] [Andrew Ng's Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 		- [x] [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
 		- [X] [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
-		- [ ] [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
-	- [ ] AWS
-		- [ ] [AWS Machine Learning Engineer](https://www.udacity.com/course/aws-machine-learning-engineer-nanodegree--nd189)
+		- [X] [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning)
+	- [ ] [Meta Database Engineer Professional Certificate](https://www.coursera.org/professional-certificates/meta-database-engineer)
+		- [X] [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases?specialization=meta-database-engineer)
+  		- [X] [Version Control](https://www.coursera.org/learn/introduction-to-version-control?specialization=meta-database-engineer)
+    		- [X] [Database Structures and Management with MySQL](https://www.coursera.org/learn/database-structures-and-management-with-mysql?specialization=meta-database-engineer)
+    		- [X] [Advanced MySQL Topics](https://www.coursera.org/learn/advanced-mysql-topics?specialization=meta-database-engineer)
+    		- [X] [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-database-engineer)
+    		- [X] [Database Clients](https://www.coursera.org/learn/database-clients?specialization=meta-database-engineer)
+    		- [ ] [Advanced Data Modeling](https://www.coursera.org/learn/advanced-data-modeling?specialization=meta-database-engineer)
+    		- [ ] [Database Engineer Capstone](https://www.coursera.org/learn/database-engineer-capstone?specialization=meta-database-engineer)
+    		- [ ] [Coding Interview Preparation](https://www.coursera.org/learn/coding-interview-preparation?specialization=meta-database-engineer)
+    		
 
 
 ## My Certificates and Courses 📜 🎓 ✔️
